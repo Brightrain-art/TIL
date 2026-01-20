@@ -1,7 +1,6 @@
-# TIL
+# Today I Learned
 
-## 2026 - 01 - 20
-- **git**에 대해서 배웠다.
+## 알고리즘 문제 풀이는 Algorithms 에 저장하고 이곳에는\n문제를 풀거나 이론을 공부하며 기억해야할 것들이나 복습하고 싶은 것들을 기록합니다.
 
-### 04:25
-- Test. 추후 추가예정
+- Dynamic Programing
+- Git
